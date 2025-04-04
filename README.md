@@ -8,3 +8,5 @@ A simple console-based app for tracking your expenses using just C#. It stores a
 - 🗂️ Stores data in `expenses.txt`
 
 ## 📁 Folder Structure
+ - `Program.cs`
+ - `expenses.txt`
